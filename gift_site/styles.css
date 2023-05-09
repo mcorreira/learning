@@ -33,3 +33,86 @@ h4 {
   flex-direction: column;
   align-items: center;
 }
+
+#gift-section {
+  margin-bottom: 10px;
+}
+
+.hover-directions {
+  margin-top: 0;
+}
+
+#gift-img1 {
+  width: 400px;
+  height: 400px;
+  border: 6px solid white;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  background-image: url(images/gift.jpg);
+  background-size: cover;
+}
+
+#gift-img1:hover {
+  background-image: url(images/rosebear.gif);
+}
+
+#gift-img2 {
+  width: 400px;
+  height: 400px;
+  border: 6px solid white;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  background-image: url(images/gift.jpg);
+  background-size: cover;
+}
+
+#gift-img2:hover {
+  background-image: url(images/rose.gif);
+}
+
+#gift-img3 {
+  width: 400px;
+  height: 400px;
+  border: 6px solid white;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  background-image: url(images/gift.jpg);
+  background-size: cover;
+}
+
+#gift-img3:hover {
+  background-image: url(images/rose.gif);
+}
+
+#gift-img4 {
+  width: 400px;
+  height: 400px;
+  border: 6px solid white;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  background-image: url(images/gift.jpg);
+  background-size: cover;
+}
+
+#gift-img4:hover {
+  background-image: url(images/rose.gif);
+}
+
+#gift-img5 {
+  width: 400px;
+  height: 400px;
+  border: 6px solid white;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  background-image: url(images/gift.jpg);
+  background-size: cover;
+}
+
+#gift-img5:hover {
+  background-image: url(images/rose.gif);
+}
